@@ -108,3 +108,16 @@ The bonus functions of libft deal with list manipulation. This part is worth an 
     ft_lstiter
     ft_lstmap
 
+<h1 align="center">CS 50</h1>
+
+CS50:Introduction to Computer Science
+This repository contains my solutions to the problem sets from Harvard University's [CS50 – Introduction to Computer Science](https://cs50.harvard.edu/x/).
+
+Course Overview
+CS50 is a free online course that provides a broad introduction to computer science. It covers topics such as algorithms, data structures, memory, security, and software engineering, using languages like C, Python, and SQL.
+
+Folder Structure
+Each folder corresponds to a problem set (pset) from the course:
+
+
+
