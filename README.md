@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size: 18px;">C-Piscine</span>
+  <span style="font-size: 26px;">C-Piscine</span>
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <span style="font-size: 18px;">Libft</span>
+  <span style="font-size: 26px;">Libft</span>
 </p>
 
 <p align="center">
