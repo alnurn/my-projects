@@ -117,7 +117,7 @@ Course Overview
 CS50 is a free online course that provides a broad introduction to computer science. It covers topics such as algorithms, data structures, memory, security, and software engineering, using languages like C, Python, and SQL.
 
 Folder Structure
-Each folder corresponds to a problem set (pset) from the course:
+Each folder corresponds to a problem set from the course.
 
 
 
