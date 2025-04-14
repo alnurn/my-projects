@@ -1,45 +1,46 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/793150a6-d411-41df-8285-2ecc9ada857e" width="500"/>
+  <img src="https://github.com/user-attachments/assets/793150a6-d411-41df-8285-2ecc9ada857e" width="400"/>
 </p>
-🏊 C Piscine
+
+<h1 align="center">42 Projects – Piscine</h1>
 
 📅 Duration: 4 weeks
 💡 Goal: Learn the fundamentals of C programming, logic, and algorithms through intensive daily exercises.
 
 Topics Covered:
 
-    Variables, loops, and conditions
+1) Variables, loops, and conditions
 
-    Functions and headers
+2) Functions and headers
 
-    Memory allocation and pointers
+3) Memory allocation and pointers
 
-    Recursion
+4) Recursion
 
-    Sorting algorithms
+5) Sorting algorithms
 
-    String manipulation
+6) String manipulation
 
-    Rush projects (teamwork)
+7) Rush projects (teamwork)
 
 🔗 Each day’s folder contains corrected exercises with filenames like ex00, ex01
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/488d4cc1-4f05-4dd1-b49e-960c5795dffc" width="200"/>
+  <img src="https://github.com/user-attachments/assets/488d4cc1-4f05-4dd1-b49e-960c5795dffc" width="400"/>
 </p>
 
-📚 Libft
+<h1 align="center">42 Projects – Libft</h1>
 
 🛠 My first C library, written entirely from scratch — without using most of the standard C library.
 
 What it includes:
 
-    Reimplementations of standard functions (strlen, strcpy, atoi, memcpy, etc.)
+1) Reimplementations of standard functions (strlen, strcpy, atoi, memcpy, etc.)
 
-    Custom functions for string and memory manipulation
+2) Custom functions for string and memory manipulation
 
-    Linked list utilities
+3) Linked list utilities
 
-    Modular, reusable code
+4) Modular, reusable code
 
 This library will be used as a base for all future projects at 42.
