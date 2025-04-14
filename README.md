@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/793150a6-d411-41df-8285-2ecc9ada857e" width="400"/>
+  <img src="https://github.com/user-attachments/assets/793150a6-d411-41df-8285-2ecc9ada857e" width="300"/>
 </p>
 
 <h1 align="center">42 Projects – Piscine</h1>
@@ -26,7 +26,7 @@ Topics Covered:
 🔗 Each day’s folder contains corrected exercises with filenames like ex00, ex01
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/488d4cc1-4f05-4dd1-b49e-960c5795dffc" width="400"/>
+  <img src="https://github.com/user-attachments/assets/488d4cc1-4f05-4dd1-b49e-960c5795dffc" width="300"/>
 </p>
 
 <h1 align="center">42 Projects – Libft</h1>
