@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/793150a6-d411-41df-8285-2ecc9ada857e" width="200"/>
 </p>
 
-<h1 align="center">42 Projects – Piscine</h1>
+<h1 align="center">C–Piscine 42</h1>
 
 Duration: 4 weeks
 Goal: Learn the fundamentals of C programming, logic, and algorithms through intensive daily exercises.
@@ -29,7 +29,7 @@ Each day’s folder contains corrected exercises with filenames like ex00, ex01
   <img src="https://github.com/user-attachments/assets/488d4cc1-4f05-4dd1-b49e-960c5795dffc" width="100"/>
 </p>
 
-<h1 align="center">42 Projects – Libft</h1>
+<h1 align="center">Libft - 42 School</h1>
 
 My first C library, written entirely from scratch — without using most of the standard C library.
 
